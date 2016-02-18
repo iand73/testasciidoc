@@ -1,0 +1,15 @@
+=== TEST
+
+. step 1
+. step 2
+. step 3
+
+TIP: This is a tip
+
+TIP: Tip.
+
+IMPORTANT: Important.
+
+WARNING: Warning.
+
+CAUTION: Caution.
